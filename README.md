@@ -20,20 +20,6 @@
 </div>
 
 ---
-
-voice-ai-agent/
-├── app.py
-├── requirements.txt
-├── .env.example
-├── .gitignore
-├── README.md
-├── output/
-│   └── .gitkeep
-└── utils/
-    ├── __init__.py
-    ├── stt.py
-    ├── intent.py
-    └── tools.py
     
 ## ✨ What It Does
 
